@@ -1,10 +1,10 @@
-package guru.springframework.stfpetclinic;
+package guru.springframework.recipeapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StfPetClinicApplicationTests {
+class RecipeAppApplicationTests {
 
 	@Test
 	void contextLoads() {
